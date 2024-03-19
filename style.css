@@ -124,7 +124,6 @@ footer a{
 @media screen and (max-width: 1200px) {
     main {
         width: 100%;
-        padding: 20px;
     }
     .section1 {
         min-width: 300px;
