@@ -1,7 +1,6 @@
 body{
     background: black;
     text-align: center;
-    max-height: 1080px;
     overflow: hidden;
     display: flex;
     justify-content: center;
