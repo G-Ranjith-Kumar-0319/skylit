@@ -129,4 +129,13 @@ footer a{
     .section1 {
         min-width: 300px;
     }
+    .icon {
+    margin-top: 1rem;
+}
+    header {
+    margin: 1rem 0rem;
+}
+    .reviewsection{
+    margin-top: 1rem;
+}
 }
