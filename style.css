@@ -117,6 +117,10 @@ footer a{
     min-width: 350px;
 }
 
+.main-section{
+    margin-bottom: 20px;
+}
+
 @media screen and (max-width: 1200px) {
     main {
         width: 100%;
