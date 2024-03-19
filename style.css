@@ -1,0 +1,130 @@
+body{
+    background: black;
+    text-align: center;
+    max-height: 1080px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 3.5rem !important;
+    color: rgb(48 36 125) !important;
+    font-weight: bold!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 span{
+   color: rgb(69, 11, 155)!important;
+}
+
+header{
+    margin: 3rem 0rem;
+}
+
+.logo{
+    width: 50%;
+    height: auto;
+}
+.icon{
+    width: 65%;
+    height: auto;
+    margin-top: 3rem;
+}
+main {
+    width: 20%;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    backdrop-filter: blur(2px);
+    position: relative;
+}
+
+.or{
+    margin: 3rem 0rem;
+}
+
+
+.bi{
+    margin-right: 0.5rem;
+}
+
+button {
+    background: #ff8021;
+    border-radius: 5px;
+    color: #000;
+    border: 1px solid #000;
+    padding: 20px 20px;
+    transition: 0.5s ease-in-out;
+    width: 100%;
+    font-size: 1.4rem;
+}
+
+button:hover {
+    background: #ffae2b;
+    cursor: pointer;
+}
+
+.followsection{
+    margin-top: 5rem;
+    color: #fff;
+}
+
+.social-media{
+    display: flex;
+    justify-content: center; 
+    color: #fff;
+}
+
+.social-media a {
+    width: 60px;
+    margin: 12px;
+}
+
+footer{
+    position: absolute;
+    bottom: 20px;
+    color: #fff;
+}
+
+footer a{
+    color:#fff;
+    font-weight: bold;
+}
+
+.reviewsection{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.reviewsection a{
+   padding: 10px 20px;   
+   color: #ff8021;
+   text-decoration: none;
+}
+.reviewsection a:hover{
+    transition: all 0.8s ease-in-out;
+    color: #fff;
+ }
+.b-left{
+    border-left: 1px solid #fff;
+}
+
+.section1 {
+    min-width: 350px;
+}
+
+@media screen and (max-width: 1200px) {
+    main {
+        width: 100%;
+        padding: 20px;
+    }
+    .section1 {
+        min-width: 300px;
+    }
+}

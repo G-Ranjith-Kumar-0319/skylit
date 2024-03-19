@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 158.98 158.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_ÅÂÁ_Ï_ÌÌ_È_ËÂÌÚ_8);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="_ÅÂÁ_Ï_ÌÌ_È_ËÂÌÚ_8" data-name="ÅÂÁ˚ÏﬂÌÌ˚È „‡‰ËÂÌÚ 8" x1="79.49" y1="158.44" x2="79.49" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0058d6"/>
+      <stop offset="1" stop-color="#0184e8"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" width="158.98" height="158.44" rx="29.13" ry="29.13"/>
+  <path class="cls-2" d="M120.02,46.74h14.39v-21.87c-6.35-.23-12.59-.59-20.58-.71-15.09,0-28.77,9.64-28.77,33.18h0v15.97h-20.98v24.98h20.98v60.42h24.58v-60.42h21.04l2.94-24.98h-23.98v-15.97c0-6.37,3.35-10.6,10.39-10.6Z"/>
+</svg>
